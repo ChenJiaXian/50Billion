@@ -53,7 +53,9 @@ Do you want to learn to develop an iOS app by yourself? I have summarized releva
 Please feel free to contact me if you have any questions。
 email:johnde110@163.com
 
-
+![1](https://github.com/ChenJiaXian/LeanCode/blob/master/1.png)
+![2](https://github.com/ChenJiaXian/LeanCode/blob/master/2.png)
+![3](https://github.com/ChenJiaXian/LeanCode/blob/master/3.png)
 
 
 
