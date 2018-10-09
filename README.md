@@ -46,10 +46,12 @@ Vii. Privacy issues
 If you have any questions or concerns about our privacy policy or data processing, please contact us at dellac@dellac.com.cn.
 
 
-About LeanCode
+About LeanCode :
+
 Do you want to learn to develop an iOS app by yourself? I have summarized relevant knowledge and materials for you. Come and learn together！
 
-
+Please feel free to contact me if you have any questions。
+email:johnde110@163.com
 
 
 
