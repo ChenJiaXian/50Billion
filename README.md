@@ -1,6 +1,6 @@
-LeanCode
+# LeanCode
 
-privacy policy
+## privacy policy
 This privacy policy introduces our privacy data related policies and practices, which will cover how we collect, use, process, store and/or disclose personal information about you collected through our mobile App. Please read our privacy policy carefully.
 
 How do we collect your personal information
@@ -46,7 +46,7 @@ Vii. Privacy issues
 If you have any questions or concerns about our privacy policy or data processing, please contact us at dellac@dellac.com.cn.
 
 
-About LeanCode :
+## About LeanCode :
 
 Do you want to learn to develop an iOS app by yourself? I have summarized relevant knowledge and materials for you. Come and learn together！
 
