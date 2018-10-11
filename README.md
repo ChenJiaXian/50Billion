@@ -1,61 +1,39 @@
-# LeanCode
+# 应急手电筒
 
-## privacy policy
-This privacy policy introduces our privacy data related policies and practices, which will cover how we collect, use, process, store and/or disclose personal information about you collected through our mobile App. Please read our privacy policy carefully.
+## 隐私政策
+一、本隐私政策介绍了我们的隐私数据相关政策和实践，包括我们如何收集、使用、处理、存储和/或披露您通过我们的移动应用程序收集的个人信息。请仔细阅读我们的隐私政策。
 
-How do we collect your personal information
+二、我们会使用的用户权限信息：摄像头功能，用户启动闪光灯，ip地址，推送信息，设备信息。
 
-Personal information is data that can be used to uniquely identify or contact someone.
+三、我们如何收集您的个人信息
 
-When you use our mobile App to protect your privacy, you should not provide any information other than our special request.
+个人信息是可用于唯一识别或联系某人的数据。
 
-2. How do we use your personal information
+当您使用我们的移动应用程序来保护您的隐私时，您不应该提供任何信息，除了我们的特殊要求。
 
-1. Send the service information of our mobile App to you through your personal information.
+四、个人信息安全
+我们必须确保你的个人资料安全。
+此应用程序将确保您的信息不会通过加密用户密码等安全措施丢失、滥用或更改。请妥善保管好您的用户名和密码信息。尽管有上述安全措施，但请注意信息网络上没有“完善的安全措施”。
 
-2. Realize password recovery function through your personal information.
+我们会保留多久的个人信息
+一般而言，我们只会在收集您的个人信息所需的期限内保留您的个人信息，并会遵守适用法律规定的数据保留期限。
 
-3, in addition to our restructuring, merger or sale, all we collect personal information can be transferred to relevant third parties, we will not give in to any irrelevant third party to provide, sell, rent, share or trade your personal information, unless get your permission in advance, or the third party and we alone or together to provide you with services, and at the end of the service, it will be banned from access including its to be able to access all the information before.
+五、诉法律免责声明
+我们有权在法律要求时披露您的个人信息，并在我们认为有必要披露与您相关的信息以保护我们的法律权利和/或遵守适用于我们移动应用程序的司法程序、法庭命令或法律程序时披露您的个人信息。
+如果我们确定披露对于执行我们的条款和条件或保护我们的业务是合理必要的，我们可能会披露与您相关的信息。
 
-Personal information security
+六、本隐私政策变更
+如果我们决定改变我们的隐私政策，我们将在我们的网站和任何我们认为合适的地方发布该政策的变化，以便您知道我们如何收集和使用您的个人信息，谁可以访问它，以及在什么情况下我们将披露它。
 
-It is important for us to keep your personal data safe.
+我们保留随时修改此政策的权利，请经常查看。如本政策有任何重大更改，我们会透过网站公告通知您。
 
-This application will ensure that your information is not lost, abused or altered through security measures such as encrypting user passwords. Please keep your username and password information properly. Despite the aforementioned security measures, please note that there is no "perfect security measures" on the information network.
-
-Therefore, although we protect your personal information in a commercially acceptable way, there is no guarantee that the information is absolutely safe.
-
-How long will we keep personal information
-
-In general, we only retain your personal information to the time limit required for the purpose of collection, and will comply with the data retention period provided by applicable law.
-
-V. legal disclaimer
-
-We have the right to disclose your personal information when required by law and when we consider it necessary to disclose information relating to you to protect our legal rights and/or comply with judicial procedures, court orders or legal procedures applicable to our mobile App.
-
-If we determine that disclosure is reasonably necessary to enforce our terms and conditions or to protect our operations, we may disclose information relating to you.
-
-Vi. Changes to this privacy policy
-
-If we decide to change our privacy policy, we will publish the changes in this policy, on our website and wherever we see fit so that you know how we collect and use your personal information, who can access it, and under what circumstances we will disclose it.
-
-We reserve the right to revise this policy at any time, so please check it frequently. If any major changes are made to this policy, we will inform you through the website notice.
-
-Vii. Privacy issues
-
-If you have any questions or concerns about our privacy policy or data processing, please contact us at dellac@dellac.com.cn.
+七、隐私问题
+如果您对我们的隐私政策或数据处理有任何疑问或担忧，请通过dellac@dellac.com.cn与我们联系。
 
 
-## About LeanCode :
+如果您有任何问题，请随时与我联系。
+电子邮件:johnde110@163.com
 
-Do you want to learn to develop an iOS app by yourself? I have summarized relevant knowledge and materials for you. Come and learn together！
-
-Please feel free to contact me if you have any questions。
-email:johnde110@163.com
-
-![1](https://github.com/ChenJiaXian/LeanCode/blob/master/1.png)
-![2](https://github.com/ChenJiaXian/LeanCode/blob/master/2.png)
-![3](https://github.com/ChenJiaXian/LeanCode/blob/master/3.png)
 
 
 
