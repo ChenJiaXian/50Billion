@@ -1,38 +1,26 @@
-# 应急手电筒
+# Morse-Decoder
 
-## 隐私政策
-一、本隐私政策介绍了我们的隐私数据相关政策和实践，包括我们如何收集、使用、处理、存储和/或披露您通过我们的移动应用程序收集的个人信息。请仔细阅读我们的隐私政策。
+## Privacy policy
+1. Users agree that personal privacy information refers to the information that can make personal identification to users or involves personal communication, including the following information: mailbox. Non-personal privacy information refers to some general information that is clearly and objectively reflected outside the scope of the basic record information and all other personal privacy information on the server side of the company and the above privacy information that the user agrees to disclose.
 
-二、我们会使用的用户权限信息：摄像头功能，用户启动闪光灯，ip地址，推送信息，设备信息。
+2, protect the privacy of users (especially minors) is Fitness Tracker a basic policy, Fitness Tracker will be carried out on the information provided by the user, strict management and protection and using corresponding techniques, to prevent the user's personal data lost, stolen or been tampered with, guarantee the public or to a third party provides a single user registration information and users in the use of web services are stored in Fitness Tracker non-public content, but except for the following situations:
+2.1 obtain clear authorization from the user in advance;
+2.2 according to relevant laws and regulations;
+2.3 according to the requirements of relevant government authorities;
+2.4 in order to protect the interests of the public;
+2.5 to protect Fitness Tracker's legal rights and interests.
+3. If you have any questions about our privacy policy at any time, please contact us via email privacy@zhangyue.com, and we will make every effort to improve this issue within a reasonable and appropriate range.
 
-三、我们如何收集您的个人信息
+Intellectual property rights
 
-个人信息是可用于唯一识别或联系某人的数据。
+1. Users shall not reverse engineer, decompile or disassemble the software without the permission of Fitness Tracker.
 
-当您使用我们的移动应用程序来保护您的隐私时，您不应该提供任何信息，除了我们的特殊要求。
+2, Fitness Tracker to provide network services contained in any text, images, graphics, audio and/or video information copyright, trademark and/or other property rights of the protection of the law, without the consent of the holder of the relevant, the above information shall not directly or indirectly in any media published, broadcast, broadcast or publish intentions and rewrite or issue, or be used for any other commercial purpose. All such information or any part of the information may be kept in the user terminal only for private and non-commercial purposes. Fitness Tracker shall not indemnify the user or any third party in any form for any delay, inaccuracy, errors, omissions, omissions, or consequential arising out of or in the transmission or delivery of all or part of the said information.
 
-四、个人信息安全
-我们必须确保你的个人资料安全。
-此应用程序将确保您的信息不会通过加密用户密码等安全措施丢失、滥用或更改。请妥善保管好您的用户名和密码信息。尽管有上述安全措施，但请注意信息网络上没有“完善的安全措施”。
+3. All contents of Fitness Tracker are only representative of the author's own position and views, which are irrelevant to Fitness Tracker, and the author shall bear all legal responsibilities.
 
-我们会保留多久的个人信息
-一般而言，我们只会在收集您的个人信息所需的期限内保留您的个人信息，并会遵守适用法律规定的数据保留期限。
-
-五、诉法律免责声明
-我们有权在法律要求时披露您的个人信息，并在我们认为有必要披露与您相关的信息以保护我们的法律权利和/或遵守适用于我们移动应用程序的司法程序、法庭命令或法律程序时披露您的个人信息。
-如果我们确定披露对于执行我们的条款和条件或保护我们的业务是合理必要的，我们可能会披露与您相关的信息。
-
-六、本隐私政策变更
-如果我们决定改变我们的隐私政策，我们将在我们的网站和任何我们认为合适的地方发布该政策的变化，以便您知道我们如何收集和使用您的个人信息，谁可以访问它，以及在什么情况下我们将披露它。
-
-我们保留随时修改此政策的权利，请经常查看。如本政策有任何重大更改，我们会透过网站公告通知您。
-
-七、隐私问题
-如果您对我们的隐私政策或数据处理有任何疑问或担忧，请通过dellac@dellac.com.cn与我们联系。
-
-
-如果您有任何问题，请随时与我联系。
-电子邮件:johnde110@163.com
+If you have any questions, please feel free to contact me.
+Email :johnde110@163.com
 
 
 
